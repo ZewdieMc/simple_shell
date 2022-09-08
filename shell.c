@@ -2,7 +2,7 @@
 
 /**
  * main - func with infinite loop
- * @ac: No use
+ * @ac: No u
  * @av: No use
  * Return: loop.
  **/
