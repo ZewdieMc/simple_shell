@@ -1,0 +1,41 @@
+.TH man 1 "28 Nov 2019" "0.1" "simple_shell man page"
+
+.SH NAME
+.B simple_shell
+- Simple shell made in C to interact with a linux operating system.
+
+.SH SYNOPSIS
+./hsh [options] [file]
+
+.SH DESCRIPTION
+Simple_Shell is an sh-compatible command language interpreter that executes
+commands read from the standard input.
+
+.SH Return Value
+
+Always 0 for success, other number means failure.
+
+.SH PATH
+
+It will look inside al directions in PATH env variable for executable.
+
+.SH
+
+.SH OPTIONS
+.B simple_shell
+Command options will be typed after the main command followed by a space and a
+ '-' symbol.
+
+.SH EXAMPLE
+
+[command] [options]
+$ ls -l
+
+.SH SEE ALSO
+.I peerlearning(2), projectbased(2), fullstack(2), Betty(1)
+
+.SH BUGS
+Single space required after argument.
+
+.SH AUTHOR
+Camilo Baquero, Sergio Pietri.
