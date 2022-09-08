@@ -5,7 +5,7 @@
  * @s1: string.
  * @s2: string.
  *
- * Return: if match and any other number if otherwise.
+ * Return: if match any other number if otherwise.
  **/
 int _strcmpdir(char *s1, char *s2)
 {
