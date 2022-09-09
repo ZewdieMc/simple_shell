@@ -13,7 +13,7 @@ commands read from the standard input.
 
 .SH Return Value
 
-Always 0 for success, other number means failure.
+Always 0 for success, the other number means failure.
 
 .SH PATH
 
