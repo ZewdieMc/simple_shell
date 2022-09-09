@@ -2,7 +2,7 @@
 
 /**
  * lookforslash - identifies if first char is a slash.
- * @cmd: the first string
+ * @cmd: the h first string
  * Return: 1 if yes 0 if no.
  */
 int lookforslash(char *cmd)
