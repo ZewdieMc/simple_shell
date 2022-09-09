@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * prompt - call prompt from another function (prompt)
+ * prompt - call the prompt from another function (prompt)
  *
  **/
 void prompt(void)
