@@ -153,13 +153,13 @@ ubunto@ubuntu:~/OS/simple_shell$
 ## Bugs
 No known Bugs.
 
-## TEAM
-[GitHub/OhiareYazid]: <https://github.com/OhiareYazid>
-[GitHub/Ruksaar786]: <https://github.com/Ruksaar786>
-
-Yazid Ohiare 
+## TEAM *************
+Zewdie Habtie ******
 &&
-Lovely Ruksaar Adam 
+********************
+Mariam Tomori
+*******************
 
+With love from ALX
 
 
